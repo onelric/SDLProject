@@ -1,0 +1,8 @@
+.*cache
+out/
+build/
+SDL2/
+lib/
+
+compile_flags.txt
+
